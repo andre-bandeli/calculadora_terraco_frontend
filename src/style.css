@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.main {
+  width: 60%;
+  margin: auto;
+  padding: 2%;
+  min-height: 100vh;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  background-color: rgba(255, 255, 255, 0.938);
+   font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 1.7rem;
+  text-align: center;
+  margin-top: -75px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.descricao {
+  margin: auto;
+  margin-top: 75px;
+  width: 50%;
+}
+
+.descricao h2{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.descricao p{
+  text-align: justify;
+  font-weight: 300;
+}
+
+.text-xl {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+.logos img {
+  width: 70px;
+  padding: .5rem;
+}
+
+.forms {
+  text-align: left;
+  width: 50%;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.forms h2 {
+  text-align: left;
+}
+
+.mb-4 {
+  padding: 15px;
+}
+
+button {
+  margin-left: 15px;
+  background-color: rgb(0, 113, 158);
+  color: white;
+  padding: .7rem;
+  border-radius: 5px;
+  margin-top: 25px;
+  border: 3px solid black;
+}
+
+.mt-12 {
+  margin-top: 75px;
+}
+
+.block {
+  width: 60%;
+  margin: auto;
+  margin-top: 75px;
+}
+
+.block h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 1440px) {
+  .main {
+    margin-top: 15px;
+    width: 80%;
+  }
+
+  h1 {
+    margin-top: 25px;
+    font-size: 1.5rem;
+  }
+
+  .descricao {
+    width: 80%;
+    margin-top: 50px;
+  }
+
+  .forms {
+    width: 80%;
+  }
+
+    .forms input {
+    width: 100%;
+  }
+
+      .forms select {
+      width: 100%;
+  }
+
+  .logos img {
+  width: 50px;
+  padding: .5rem;
+}
+
+.block {
+  width: 90%;
+}
+
+
+}

@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3da81e5e.css",
-    "main.js": "/static/js/main.bb75416c.js",
+    "main.css": "/static/css/main.6dd9619c.css",
+    "main.js": "/static/js/main.5b3402e4.js",
     "static/js/453.4b56ffb6.chunk.js": "/static/js/453.4b56ffb6.chunk.js",
+    "static/media/terraco.jpg": "/static/media/terraco.2f2ffa3652b7adeca1e2.jpg",
     "static/media/unicamp.png": "/static/media/unicamp.ce5aa9e577ef288bbf79.png",
     "static/media/feagri.png": "/static/media/feagri.e8c95b151923a9e8b836.png",
     "index.html": "/index.html",
-    "main.3da81e5e.css.map": "/static/css/main.3da81e5e.css.map",
-    "main.bb75416c.js.map": "/static/js/main.bb75416c.js.map",
+    "main.6dd9619c.css.map": "/static/css/main.6dd9619c.css.map",
+    "main.5b3402e4.js.map": "/static/js/main.5b3402e4.js.map",
     "453.4b56ffb6.chunk.js.map": "/static/js/453.4b56ffb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3da81e5e.css",
-    "static/js/main.bb75416c.js"
+    "static/css/main.6dd9619c.css",
+    "static/js/main.5b3402e4.js"
   ]
 }

@@ -3,6 +3,7 @@ import CalculatorForm from './components/CalculatorForm';
 import ResultDisplay from './components/ResultDisplay';
 import { calculateTerraces } from './calculations';
 import './style.css';
+import terraco from './terraco.jpg'
 
 import unicamp_logo from './unicamp.png'
 import feagri_logo from './feagri.png'
@@ -53,6 +54,9 @@ function App() {
         <div className='descricao'>
             <h2>Calculadora de Terraços</h2>
             <p>A Calculadora de Terraços é uma aplicação interativa desenvolvida para auxiliar técnicos, engenheiros e produtores rurais no dimensionamento adequado do espaçamento entre terraços agrícolas. A partir de parâmetros como declividade do terreno, tipo de solo, uso da terra e preparo do solo, o sistema utiliza fórmulas técnicas reconhecidas para calcular automaticamente o espaçamento ideal entre os terraços.</p>
+        </div>
+        <div className='terraco-img'>
+          <img src={terraco}></img>
         </div>
         <div className='forms'>
         

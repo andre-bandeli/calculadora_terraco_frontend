@@ -93,6 +93,20 @@ button {
   font-size: 1.5rem;
 }
 
+.terraco-img {
+  width: 80%;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: flex;
+}
+
+.terraco-img img {
+  width: 350px;
+  margin: auto;
+  border-radius: 15px;
+}
+
 @media (max-width: 1440px) {
   .main {
     margin-top: 15px;
